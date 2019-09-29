@@ -1,3 +1,4 @@
+== Character Kit ==
 {{CharacterKit
 |standard_ability =
 |exceed_cost =
@@ -85,4 +86,4 @@
 |move_7_effect =
 |move_7_boost_name =
 |move_7_boost_cost =
-|move_7_boost_effect =
+|move_7_boost_effect =}}
