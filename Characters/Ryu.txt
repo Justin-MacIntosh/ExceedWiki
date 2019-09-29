@@ -1,11 +1,5 @@
 {{StreetFighterCharacterDescription|character_name = Ryu}}
 
-== Ultra Moves ==
-{{UltraMoves|ultra_1_name = Metsu Hadoken (3)|ultra_1_range = 3-5|ultra_1_power = 7|ultra_1_priority = 5|ultra_1_armor = 0|ultra_1_guard = 0|ultra_1_effect = <b>After:</b> Move up to 2.|ultra_2_name = Metsu Shoryuken (4)|ultral_2_range = 1|ultra_2_power = 7|ultra_2_priority = 5|ultra_2_armor = 0|ultra_2_guard = 0|ultra_2_effect = <span>+3 Speed</span> if the opponent initiated this Strike.}}
-
-== Ultra Boosts ==
-{{UltraBoosts|ultra_1_name = Metsu Hadoken|ultra_1_boost_name = Way of the Warrior|ultra_1_boost_cost = 1|ultra_1_boost = (+) +2 Power and +2 Speed|ultra_2_name = Metsu Shoryuken|ultra_2_boost_name = Lightning Reflexes|ultra_2_boost_cost = 1|ultra_2_boost = Move 2, then Strike.}}
-
 == Character Kit ==
 {{CharacterKit
 |standard_ability = As an action, you may Move 1.
@@ -73,26 +67,26 @@
 |move_5_boost_cost = 0
 |move_5_boost_effect = <span>+1 Power</span> and +1 Speed
 
-|move_6_name =
-|move_6_force_cost =
-|move_6_range =
-|move_6_power =
-|move_6_priority =
-|move_6_armor =
-|move_6_guard =
-|move_6_effect =
-|move_6_boost_name =
-|move_6_boost_cost =
-|move_6_boost_effect =
+|move_6_name = Metsu Hadoken
+|move_6_force_cost = 3
+|move_6_range = 3-5
+|move_6_power = 7
+|move_6_priority = 5
+|move_6_armor = 0
+|move_6_guard = 0
+|move_6_effect = <b>After:</b> Move up to 2.
+|move_6_boost_name = Way of the Warrior (+)
+|move_6_boost_cost = 1
+|move_6_boost_effect = <span>+2 Power</span> and +2 Speed
 
-|move_7_name =
-|move_7_force_cost =
-|move_7_range =
-|move_7_power =
-|move_7_priority =
-|move_7_armor =
-|move_7_guard =
-|move_7_effect =
-|move_7_boost_name =
-|move_7_boost_cost =
-|move_7_boost_effect =}}
+|move_7_name = Metsu Shoryuken
+|move_7_force_cost = 4
+|move_7_range = 1
+|move_7_power = 7
+|move_7_priority = 5
+|move_7_armor = 0
+|move_7_guard = 0
+|move_7_effect = <span>+3 Speed</span> if the opponent initiated this Strike.
+|move_7_boost_name = Lightning Reflexes
+|move_7_boost_cost = 1
+|move_7_boost_effect = Move 2, then Strike.}}
