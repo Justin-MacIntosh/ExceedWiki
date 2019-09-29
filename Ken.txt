@@ -1,6 +1,6 @@
 {{StreetFighterCharacterDescription|character_name = Ken}}
 
-
+== Character Kit ==
 {{CharacterKit
 |standard_ability = As an action, you may Close 1 and draw a card.
 |exceed_cost = 3
