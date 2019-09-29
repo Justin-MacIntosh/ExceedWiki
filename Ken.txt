@@ -1,23 +1,5 @@
 {{StreetFighterCharacterDescription|character_name = Ken}}
 
-== Unique Abilities ==
-{{UniqueAbilities|standard_ability = |exceed_cost = 3|exceed_ability = }}
-
-== Special Moves ==
-{{SpecialMoves
-
-}}
-
-== Special Boosts ==
-{{SpecialBoosts
-}}
-
-== Ultra Moves ==
-{{UltraMoves|ultra_1_name = Guren Senpukyaku (3)|ultra_1_range = 1-2|ultra_1_power = 5|ultra_1_priority = 4|ultra_1_armor = 0|ultra_1_guard = 4|ultra_1_effect = <b>Before:</b> Advance 2. If you did not move past the opponent during this movement, +3 Power.|ultra_2_name = Shinryuken (4)|ultral_2_range = 1|ultra_2_power = 7|ultra_2_priority = 6|ultra_2_armor = 0|ultra_2_guard = 0|ultra_2_effect = <span>+4 Power</span> if you initiated this Strike.}}
-
-== Ultra Boosts ==
-{{UltraBoosts|ultra_1_name = Guren Senpukyaku|ultra_1_boost_name = True Master|ultra_1_boost_cost = 1|ultra_1_boost = <span>+2 Power</span> and +2 Speed|ultra_2_name = Shinryuken|ultra_2_boost_name = Rushdown Style|ultra_2_boost_cost = 1|ultra_2_boost = Close 3, then Strike.}}
-
 
 {{CharacterKit
 |standard_ability = As an action, you may Close 1 and draw a card.
@@ -93,26 +75,26 @@ As an action, you may Close 1 and draw a card. Then, you may Strike.
 |move_5_boost_effect = (+) +1 Speed
 <b>Now:</b> Strike.
 
-|move_6_name =
-|move_6_force_cost =
-|move_6_range =
-|move_6_power =
-|move_6_priority =
-|move_6_armor =
-|move_6_guard =
-|move_6_effect =
-|move_6_boost_name =
-|move_6_boost_cost =
-|move_6_boost_effect =
+|move_6_name = Guren Senpukyaku
+|move_6_force_cost = 3
+|move_6_range = 1-2
+|move_6_power = 5
+|move_6_priority = 4
+|move_6_armor = 0
+|move_6_guard = 4
+|move_6_effect = <b>Before:</b> Advance 2. If you did not move past the opponent during this movement, +3 Power.
+|move_6_boost_name = True Master
+|move_6_boost_cost = 1
+|move_6_boost_effect = (+) +2 Power and +2 Speed
 
-|move_7_name =
-|move_7_force_cost =
-|move_7_range =
-|move_7_power =
-|move_7_priority =
-|move_7_armor =
-|move_7_guard =
-|move_7_effect =
-|move_7_boost_name =
-|move_7_boost_cost =
-|move_7_boost_effect =}}
+|move_7_name = Shinryuken
+|move_7_force_cost = 4
+|move_7_range = 1
+|move_7_power = 7
+|move_7_priority = 6
+|move_7_armor = 0
+|move_7_guard = 0
+|move_7_effect = <span>+4 Power</span> if you initiated this Strike.
+|move_7_boost_name = Rushdown Style
+|move_7_boost_cost = 1
+|move_7_boost_effect = Close 3, then Strike.}}
