@@ -1,0 +1,35 @@
+/* GENERAL LAYOUT */
+#WikiaMainContent {
+    width: 100%;
+}
+
+#WikiaRailWrapper {
+    display:none;
+}
+
+
+/* TABLE */
+.all-stats-table {
+    font-size: 14px;
+    margin-right: 0px;
+}
+
+td {
+    max-width: 375px;
+}
+
+.all-stats-table td,
+.all-stats-table th {
+    border-right: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+}
+
+.all-stats-table td:nth-child(8),
+.all-stats-table th:nth-child(8) {
+    border-right: 5px solid #9c9c9c;
+}
+
+/* OTHER */
+.all-vars-hidden {
+    display:none;
+}
