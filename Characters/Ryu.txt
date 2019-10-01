@@ -1,4 +1,5 @@
-{{StreetFighterCharacterDescription|character_name = Ryu}}
+{{StreetFighterCharacterDescription
+|character_name = Ryu}}
 
 == Character Kit ==
 {{CharacterKit
