@@ -1,3 +1,6 @@
+{{StreetFighterCharacterDescription
+|character_name = Cammy}}
+
 == Character Kit ==
 {{CharacterKit
 |standard_ability = If you move past the opponent during a Strike, your attack's range includes them.
