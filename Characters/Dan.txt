@@ -3,9 +3,9 @@
 
 == Character Kit ==
 {{CharacterKit
-|standard_ability =
-|exceed_cost =
-|exceed_ability =
+|standard_ability = Your Wild Swings have "<b>Critical</b>: +1 Power and +1 Speed".
+|exceed_cost = 2
+|exceed_ability = Your Wild Swings have "<b>Critical</b>: +1 Power and +1 Speed".<br/>When drawing a card at the end of turn, draw from the top or bottom of your deck. You may then discard a card.
 
 |move_1_name = Dankukyaku
 |move_1_force_cost = <span>-</span>
