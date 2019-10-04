@@ -1,0 +1,92 @@
+{{StreetFighterCharacterDescription
+|character_name = Guile}}
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability = When using a Change Cards action, the first Gauge spent generates 2 additional Force.
+|exceed_cost = 2
+|exceed_ability = When using a Change Cards action, the first Gauge spent generates 2 additional Force.<br/>If you spent Gauge in this way, you may then Strike (after drawing cards).
+
+|move_1_name = Double Sweep Kick
+|move_1_force_cost = <span>-</span>
+|move_1_range = 1
+|move_1_power = 2
+|move_1_priority = 6
+|move_1_armor = 0
+|move_1_guard = 0
+|move_1_effect = <b>Before:</b> Advance 2.<br/><b>Hit:</b> Gain Advantage.
+|move_1_boost_name = Sonic Force (+)
+|move_1_boost_cost = 0
+|move_1_boost_effect = <span>+0-1 Range</span><br/>At the end of your next turn, add this card to your gauge.
+
+|move_2_name = Flash Kick
+|move_2_force_cost = 0
+|move_2_range = 1-2
+|move_2_power = 4
+|move_2_priority = 3
+|move_2_armor = 1
+|move_2_guard = 4
+|move_2_effect = <b>Critical:</b> +2 Power.<br/><b>Hit:</b> Push 2.<br/><b>After:</b> Move 1.
+|move_2_boost_name = Patience (+)
+|move_2_boost_cost = 0
+|move_2_boost_effect = <span>+2 Power</span><br/>At the end of your next turn, add this card to your gauge.
+
+|move_3_name =
+|move_3_force_cost =
+|move_3_range =
+|move_3_power =
+|move_3_priority =
+|move_3_armor =
+|move_3_guard =
+|move_3_effect =
+|move_3_boost_name =
+|move_3_boost_cost =
+|move_3_boost_effect =
+
+|move_4_name =
+|move_4_force_cost =
+|move_4_range =
+|move_4_power =
+|move_4_priority =
+|move_4_armor =
+|move_4_guard =
+|move_4_effect =
+|move_4_boost_name =
+|move_4_boost_cost =
+|move_4_boost_effect =
+
+|move_5_name =
+|move_5_force_cost =
+|move_5_range =
+|move_5_power =
+|move_5_priority =
+|move_5_armor =
+|move_5_guard =
+|move_5_effect =
+|move_5_boost_name =
+|move_5_boost_cost =
+|move_5_boost_effect =
+
+|move_6_name =
+|move_6_force_cost =
+|move_6_range =
+|move_6_power =
+|move_6_priority =
+|move_6_armor =
+|move_6_guard =
+|move_6_effect =
+|move_6_boost_name =
+|move_6_boost_cost =
+|move_6_boost_effect =
+
+|move_7_name =
+|move_7_force_cost =
+|move_7_range =
+|move_7_power =
+|move_7_priority =
+|move_7_armor =
+|move_7_guard =
+|move_7_effect =
+|move_7_boost_name =
+|move_7_boost_cost =
+|move_7_boost_effect =}}
