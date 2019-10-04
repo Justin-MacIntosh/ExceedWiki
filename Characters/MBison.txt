@@ -1,4 +1,5 @@
-{{StreetFighterCharacterDescription|character_name = M. Bison}}
+{{StreetFighterCharacterDescription
+|character_name = M. Bison}}
 
 == Character Kit ==
 {{CharacterKit

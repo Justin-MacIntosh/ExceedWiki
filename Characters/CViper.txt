@@ -1,0 +1,92 @@
+{{StreetFighterCharacterDescription
+|character_name = C. Viper}}
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability = After you resolve a Continuous Boost, you may Strike.
+|exceed_cost = 3
+|exceed_ability = When you Exceed, draw 5 cards.<br/>After you resolve a Continuous Boost, you may Strike. If you do, your attack is Critical.
+
+|move_1_name = Burning Kick
+|move_1_force_cost = <span>-</span>
+|move_1_range = 2-3
+|move_1_power = 4
+|move_1_priority = 5
+|move_1_armor = 0
+|move_1_guard = 0
+|move_1_effect = <b>Critical, Hit:</b> The opponent has -2 Power and gain Advantage.<br/><b>After:</b> Close 1.
+|move_1_boost_name = Blazing (+)
+|move_1_boost_cost = 0
+|move_1_boost_effect = <span>+1 Power</span> and Ignore Armor
+
+|move_2_name = Emergency Combination
+|move_2_force_cost = <span>-</span>
+|move_2_range = 2-3
+|move_2_power = 3
+|move_2_priority = 4
+|move_2_armor = 0
+|move_2_guard = 0
+|move_2_effect = <b>Before:</b> If you have a Continuous Boost in play, +2 Power.
+|move_2_boost_name = Hidden Weapons
+|move_2_boost_cost = 1
+|move_2_boost_effect = Draw 2 cards. Add this card to your gauge.
+
+|move_3_name = Seismic Hammer
+|move_3_force_cost = <span>-</span>
+|move_3_range = 2-5
+|move_3_power = 5
+|move_3_priority = 2
+|move_3_armor = 0
+|move_3_guard = 0
+|move_3_effect = <b>Critical:</b> +3 Speed.<br/><b>After:</b> Move up to 2.
+|move_3_boost_name = Blasting (+)
+|move_3_boost_cost = 1
+|move_3_boost_effect = <span>+1 Power</span> and +5 Guard
+
+|move_4_name = Temple Massage
+|move_4_force_cost = <span>-</span>
+|move_4_range = 1
+|move_4_power = 4
+|move_4_priority = 4
+|move_4_armor = 0
+|move_4_guard = 0
+|move_4_effect = <b>Critical, Hit:</b> Draw 3 cards.<br/><b>Hit:</b> Spend up to 4 Force. For each Force spent, +1 Power.
+|move_4_boost_name = Cheater
+|move_4_boost_cost = 0
+|move_4_boost_effect = Search your Discard Pile for a Continuous Boost. You may play it, paying all costs.
+
+|move_5_name = Thunder Knuckle
+|move_5_force_cost = <span>-</span>
+|move_5_range = 1
+|move_5_power = 3
+|move_5_priority = 5
+|move_5_armor = 0
+|move_5_guard = 0
+|move_5_effect = <b>Critical: Ignore Guard</b><br/><b>Before:</b> Close 1.
+|move_5_boost_name = Electrifying
+|move_5_boost_cost = 0
+|move_5_boost_effect = <b>Hit:<b/> Spend up to 4 Force. For each Force spent, +1 Power.
+
+|move_6_name = Burning Dance
+|move_6_force_cost = 3
+|move_6_range = 1-3
+|move_6_power = 5
+|move_6_priority = 5
+|move_6_armor = 0
+|move_6_guard = 0
+|move_6_effect = <b>Ignore Armor</b><br/><b>Hit:</b> Push 8.<br/><b>After:</b> Close 8.
+|move_6_boost_name = Stylish (+)
+|move_6_boost_cost = 0
+|move_6_boost_effect = The opponent has +3 Power.<br/><b>Now:<b/> Draw 3 cards. Take another action.
+
+|move_7_name = Burst Time
+|move_7_force_cost = 4
+|move_7_range = 1-2
+|move_7_power = 10
+|move_7_priority = 2
+|move_7_armor = 0
+|move_7_guard = 0
+|move_7_effect = <b>Stun Immunity</b><br/>If you do not have any Continuous Boosts in play, this attack does not hit.
+|move_7_boost_name = Exoskeleton (+)
+|move_7_boost_cost = 0
+|move_7_boost_effect = +3 Armor and +1 Guard}}
