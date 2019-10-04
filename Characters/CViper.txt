@@ -17,7 +17,7 @@
 |move_1_effect = <b>Critical, Hit:</b> The opponent has -2 Power and gain Advantage.<br/><b>After:</b> Close 1.
 |move_1_boost_name = Blazing (+)
 |move_1_boost_cost = 0
-|move_1_boost_effect = <span>+1 Power</span> and Ignore Armor
+|move_1_boost_effect = <span>+1 Power</span> and <b>Ignore Armor</b>
 
 |move_2_name = Emergency Combination
 |move_2_force_cost = <span>-</span>
@@ -65,7 +65,7 @@
 |move_5_effect = <b>Critical: Ignore Guard</b><br/><b>Before:</b> Close 1.
 |move_5_boost_name = Electrifying
 |move_5_boost_cost = 0
-|move_5_boost_effect = <b>Hit:<b/> Spend up to 4 Force. For each Force spent, +1 Power.
+|move_5_boost_effect = <b>Hit:</b> Spend up to 4 Force. For each Force spent, +1 Power.
 
 |move_6_name = Burning Dance
 |move_6_force_cost = 3
@@ -77,7 +77,7 @@
 |move_6_effect = <b>Ignore Armor</b><br/><b>Hit:</b> Push 8.<br/><b>After:</b> Close 8.
 |move_6_boost_name = Stylish (+)
 |move_6_boost_cost = 0
-|move_6_boost_effect = The opponent has +3 Power.<br/><b>Now:<b/> Draw 3 cards. Take another action.
+|move_6_boost_effect = The opponent has +3 Power.<br/><b>Now:</b> Draw 3 cards. Take another action.
 
 |move_7_name = Burst Time
 |move_7_force_cost = 4
@@ -89,4 +89,4 @@
 |move_7_effect = <b>Stun Immunity</b><br/>If you do not have any Continuous Boosts in play, this attack does not hit.
 |move_7_boost_name = Exoskeleton (+)
 |move_7_boost_cost = 0
-|move_7_boost_effect = +3 Armor and +1 Guard}}
+|move_7_boost_effect = <span>+3 Armor</span> and +1 Guard}}
