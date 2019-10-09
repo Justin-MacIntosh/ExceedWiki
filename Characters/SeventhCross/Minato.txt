@@ -1,0 +1,94 @@
+== Character ==
+Minato is a character from the universe of Seventh Cross.
+
+Minato is a playable character in Exceed introduced in Season 2.
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability =
+|exceed_cost =
+|exceed_ability =
+
+|move_1_name = Barnstorming
+|move_1_force_cost = <span>-</span>
+|move_1_range = 1-2
+|move_1_power = 3
+|move_1_priority = 5
+|move_1_armor = 0
+|move_1_guard = 0
+|move_1_effect = <b>Hit:</b> Shuffle your discard pile into your deck and gain <b>Advantage</b>.
+|move_1_boost_name = Weight of Regret
+|move_1_boost_cost = T
+|move_1_boost_effect = At the end of each Strike, if your attack did not hit the opponent, you may return it to your hand instead of discarding it.
+
+|move_2_name = Bus Stop
+|move_2_force_cost = <span>-</span>
+|move_2_range = 1-2
+|move_2_power = 4
+|move_2_priority = 3
+|move_2_armor = 0
+|move_2_guard = 5
+|move_2_effect = <b>Hit:</b> Push 2, then you may spend up to 2 Force. For each Force spent, +1 Power.
+|move_2_boost_name = Fractured Memories
+|move_2_boost_cost = T
+|move_2_boost_effect = When you reveal your attack, if a copy of your attack is in your sealed or transformation area, it is considered an EX attack.
+
+|move_3_name = Cabstand
+|move_3_force_cost = <span>-</span>
+|move_3_range = 1
+|move_3_power = 3
+|move_3_priority = 5
+|move_3_armor = 0
+|move_3_guard = 0
+|move_3_effect = <b>Before:</b> Spend up to 3 Force, For each Force spent, Close 1.<br/><b>After:</b> Advance 3.
+|move_3_boost_name = One More Ride (+)
+|move_3_boost_cost = 0
+|move_3_boost_effect = Instead of drawing at the end of your turn, you may return a card from your sealed area to your hand.
+
+|move_4_name = Flight 13
+|move_4_force_cost = <span>-</span>
+|move_4_range = 5-7
+|move_4_power = 3
+|move_4_priority = 4
+|move_4_armor = 0
+|move_4_guard = 0
+|move_4_effect = <b>Before:</b> You may discard up to 3 cards from the top of your deck. For each card discarded this way, Retreat 1.
+|move_4_boost_name = Outrun the Past
+|move_4_boost_cost = T
+|move_4_boost_effect = Before you set cards for a Strike, you may seal up to 4 cards from your discard pile or gauge. For every 2 cards sealed this way, draw a card.
+
+|move_5_name = Jump the Shark
+|move_5_force_cost = <span>-</span>
+|move_5_range = 3-4
+|move_5_power = 2
+|move_5_priority = 6
+|move_5_armor = 0
+|move_5_guard = 0
+|move_5_effect = <b>Hit:</b> +1 Power for every 4 cards in your sealed area (max of +5).
+|move_5_boost_name = Jump the Train
+|move_5_boost_cost = 1
+|move_5_boost_effect = Move 4.
+
+|move_6_name =
+|move_6_force_cost =
+|move_6_range =
+|move_6_power =
+|move_6_priority =
+|move_6_armor =
+|move_6_guard =
+|move_6_effect =
+|move_6_boost_name =
+|move_6_boost_cost =
+|move_6_boost_effect =
+
+|move_7_name =
+|move_7_force_cost =
+|move_7_range =
+|move_7_power =
+|move_7_priority =
+|move_7_armor =
+|move_7_guard =
+|move_7_effect =
+|move_7_boost_name =
+|move_7_boost_cost =
+|move_7_boost_effect =}}
