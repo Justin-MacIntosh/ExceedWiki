@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Cammy.jpg
+|exceed_image = File:Cammy_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Cammy}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

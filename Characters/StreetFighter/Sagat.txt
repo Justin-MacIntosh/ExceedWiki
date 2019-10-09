@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Sagat.jpg
+|exceed_image = File:Sagat_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Sagat}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

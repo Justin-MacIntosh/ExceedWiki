@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Dan.jpg
+|exceed_image = File:Dan_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Dan}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

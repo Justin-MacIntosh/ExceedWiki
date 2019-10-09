@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Vega.jpg
+|exceed_image = File:Vega_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Vega}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

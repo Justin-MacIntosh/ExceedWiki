@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:ChunLi.jpg
+|exceed_image = File:ChunLi_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Chun-Li}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

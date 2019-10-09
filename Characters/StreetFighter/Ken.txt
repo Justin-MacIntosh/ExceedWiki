@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Ken.jpg
+|exceed_image = File:Ken_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Ken}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Guile.jpg
+|exceed_image = File:Guile_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Guile}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

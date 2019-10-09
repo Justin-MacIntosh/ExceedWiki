@@ -1,5 +1,12 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Ryu.jpg
+|exceed_image = File:Ryu_Exceed.jpg}}
+
 {{StreetFighterCharacterDescription
 |character_name = Ryu}}
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit
