@@ -5,9 +5,9 @@ Celinka is a playable character in Exceed introduced in Season 2.
 
 == Character Kit ==
 {{CharacterKit
-|standard_ability = When you Prepare, you may put up to 3 cards from your hand into into play s face-down Continuous Boosts that read "+1 Power. When this card would be discarded, seal it instead."
+|standard_ability = When you Prepare, you may put up to 3 cards from your hand into into play as face-down Continuous Boosts that read "+1 Power. When this card would be discarded, seal it instead."
 |exceed_cost = 5
-|exceed_ability = <b>When you Exceed, seal your discard pile.</b><br/>Your attacks have +1 Power for every 5 of your cards that are sealed, to a maximum of 3. When a card would be put in your discard pile, seal it instead.
+|exceed_ability = <b>When you Exceed, seal your discard pile.</b><br/>Your attacks have +1 Power for every 5 of your cards that are sealed, to a maximum of 3.<br/>When a card would be put in your discard pile, seal it instead.
 
 |move_1_name = Dispelling Horn
 |move_1_force_cost = <span>-</span>
@@ -47,48 +47,48 @@ Celinka is a playable character in Exceed introduced in Season 2.
 
 |move_4_name = Swift Exorcism
 |move_4_force_cost = <span>-</span>
-|move_4_range =
-|move_4_power =
-|move_4_priority =
-|move_4_armor =
-|move_4_guard =
-|move_4_effect =
-|move_4_boost_name =
-|move_4_boost_cost =
-|move_4_boost_effect =
+|move_4_range = 1
+|move_4_power = 2
+|move_4_priority = 7
+|move_4_armor = 0
+|move_4_guard = 0
+|move_4_effect = <b>Hit:</b> Push 2.<br/><b>After:</b> If you have a Continuous Boost in play, Move 1 and gain <b>Advantage</b>.
+|move_4_boost_name = Good to the Last Bite
+|move_4_boost_cost = T
+|move_4_boost_effect = Your attacks have "If there is a copy of this attack in your sealed or transformation area, +1 Power and +1 Armor."
 
 |move_5_name = Wishing Ward
 |move_5_force_cost = <span>-</span>
-|move_5_range =
-|move_5_power =
-|move_5_priority =
-|move_5_armor =
-|move_5_guard =
-|move_5_effect =
-|move_5_boost_name =
-|move_5_boost_cost =
-|move_5_boost_effect =
+|move_5_range = 1-3
+|move_5_power = 5
+|move_5_priority = 2
+|move_5_armor = 0
+|move_5_guard = 6
+|move_5_effect = <b>Hit:</b> Seal up to 3 cards from your hand. For each card sealed this way, +1 Power and draw a card.
+|move_5_boost_name = Endless Hunger
+|move_5_boost_cost = 1
+|move_5_boost_effect = Seal your hand. Draw 4 cards, then Strike.
 
-|move_6_name =
-|move_6_force_cost =
-|move_6_range =
-|move_6_power =
-|move_6_priority =
-|move_6_armor =
-|move_6_guard =
-|move_6_effect =
-|move_6_boost_name =
-|move_6_boost_cost =
-|move_6_boost_effect =
+|move_6_name = Moon Ritual Dance
+|move_6_force_cost = 2
+|move_6_range = 1-2
+|move_6_power = 2
+|move_6_priority = 7
+|move_6_armor = 0
+|move_6_guard = 0
+|move_6_effect = <b>Hit:</b> You may return a Normal or Special Attak from your sealed area to your hand.
+|move_6_boost_name = Preta Memory
+|move_6_boost_cost = 0
+|move_6_boost_effect = You may seal this and 2 other cards from your hand. If you do, Transform a card from your hand.
 
-|move_7_name =
-|move_7_force_cost =
-|move_7_range =
-|move_7_power =
-|move_7_priority =
-|move_7_armor =
-|move_7_guard =
-|move_7_effect =
-|move_7_boost_name =
-|move_7_boost_cost =
-|move_7_boost_effect =}}
+|move_7_name = Purifying Roar
+|move_7_force_cost = 3
+|move_7_range = 2-3
+|move_7_power = 3
+|move_7_priority = 2
+|move_7_armor = 0
+|move_7_guard = 0
+|move_7_effect = <span>+1 Speed</span> for each differently-named Normal Attack in your sealed area.
+|move_7_boost_name = Fortune's Roar
+|move_7_boost_cost = 0
+|move_7_boost_effect = Draw 4 cards.}}
