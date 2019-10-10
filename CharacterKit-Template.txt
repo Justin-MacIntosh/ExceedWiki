@@ -101,7 +101,7 @@
 === Moves ===
 {| class="article-table all-stats-table"
 !Name
-!F
+!C
 !Rng
 !P
 !S

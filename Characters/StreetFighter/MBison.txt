@@ -34,7 +34,7 @@
 |move_2_armor = 0
 |move_2_guard = 0
 |move_2_effect = <b>Critical:</b> +1 Power and +1 Speed.<br/><b>After:</b> Close 2. If the opponent is stunned, Push or Pull up to 2.
-|move_2_boost_name = Unstoppable (+)
+|move_2_boost_name = (+) Unstoppable
 |move_2_boost_cost = 1
 |move_2_boost_effect = <b>Stun Immunity</b><br/>Your attacks are <b>Critical</b>.
 
@@ -46,7 +46,7 @@
 |move_3_armor = 0
 |move_3_guard = 0
 |move_3_effect = <b>Before:</b> Advance 3.<br/><b>Critical, Hit:</b> Advance or Retreat 3, then draw a card.
-|move_3_boost_name = Psycho Power (+)
+|move_3_boost_name = (+) Psycho Power
 |move_3_boost_cost = 1
 |move_3_boost_effect = <span>+1 Power</span> for each card in your gauge, to a maximum of +5.
 

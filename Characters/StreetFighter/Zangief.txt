@@ -22,7 +22,7 @@
 |move_1_armor = 0
 |move_1_guard = 0
 |move_1_effect = <b>Hit:</b>Push 3.<br/><b>Critical, After:</b> Close 3.
-|move_1_boost_name = Siberian Fortitude (+)
+|move_1_boost_name = (+) Siberian Fortitude
 |move_1_boost_cost = 1
 |move_1_boost_effect = <span>+2 Armor</span><br/><b>Now:</b> Close 2.
 
@@ -34,7 +34,7 @@
 |move_2_armor = 0
 |move_2_guard = 5
 |move_2_effect = <b>Critical: Attacks at range 4 or greater do not hit you.</b><br/><b>After:</b> Close 2.
-|move_2_boost_name = Reach (+)
+|move_2_boost_name = (+) Reach
 |move_2_boost_cost = 1
 |move_2_boost_effect = <span>+0-1 Range</span><br/><b>Now:</b> Strike.
 
@@ -70,7 +70,7 @@
 |move_5_armor = 0
 |move_5_guard = 0
 |move_5_effect = <b>Ignore Armor, Ignore Guard</b><br/><b>Hit:</b> The opponent must discard a card at random.
-|move_5_boost_name = Thick Skinned (+)
+|move_5_boost_name = (+) Thick Skinned
 |move_5_boost_cost = 0
 |move_5_boost_effect = <span>+2 Armor</span><br/><b>After:</b> If you were hit this Strike, add this card to your gauge.
 
@@ -94,6 +94,6 @@
 |move_7_armor = 0
 |move_7_guard = 0
 |move_7_effect = <b>Hit:</b> You and the opponent discard all cards.
-|move_7_boost_name = Super Armor (+)
+|move_7_boost_name = (+) Super Armor
 |move_7_boost_cost = 0
 |move_7_boost_effect = <span>+1 Power</span> and <b>Stun Immunity</b><br/><b>After:</b> If you were hit this Strike, add this card to your gauge.}}

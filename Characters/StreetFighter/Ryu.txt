@@ -34,7 +34,7 @@
 |move_2_armor = 0
 |move_2_guard = 0
 |move_2_effect = <b>Critical:</b> +2 Speed<br/><b>After:</b> If you hit, you may return this card to the top of your deck. If you do, add the top card of your discard pile to your gauge.
-|move_2_boost_name = Defensive (+)
+|move_2_boost_name = (+) Defensive
 |move_2_boost_cost = 0
 |move_2_boost_effect = <span>+2 Power</span> and +1 Armor
 
@@ -58,7 +58,7 @@
 |move_4_armor = 0
 |move_4_guard = 0
 |move_4_effect = <span>+2 Speed</span> if the opponent initiated this Strike.<br/><b>Critical, Before:</b> Close 1.
-|move_4_boost_name = Overhead (+)
+|move_4_boost_name = (+) Overhead
 |move_4_boost_cost = 0
 |move_4_boost_effect = <b>Ignore Armor.</b><br/><b>Now:</b> Strike.<br/><b>Hit:</b> Add this boost to your gauge.
 
@@ -82,7 +82,7 @@
 |move_6_armor = 0
 |move_6_guard = 0
 |move_6_effect = <b>After:</b> Move up to 2.
-|move_6_boost_name = Way of the Warrior (+)
+|move_6_boost_name = (+) Way of the Warrior
 |move_6_boost_cost = 1
 |move_6_boost_effect = <span>+2 Power</span> and +2 Speed
 
