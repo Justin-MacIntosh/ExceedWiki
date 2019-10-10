@@ -29,7 +29,7 @@ Geoffrey is a playable character in Exceed introduced in Season 2.
 |move_2_armor = 0
 |move_2_guard = 3
 |move_2_effect = <b>Hit:</b> Push 1.
-|move_2_boost_name = Golden Chains (+)
+|move_2_boost_name = (+) Golden Chains
 |move_2_boost_cost = 1
 |move_2_boost_effect = <span>-2 Speed</span> and +2 Armor<br/><b>Now:</b> Draw 2 cards.
 
@@ -65,7 +65,7 @@ Geoffrey is a playable character in Exceed introduced in Season 2.
 |move_5_armor = 0
 |move_5_guard = 4
 |move_5_effect = <b>Before:</b> If you were hit during this Strike, Close 3.
-|move_5_boost_name = Inviolability (+)
+|move_5_boost_name = (+) Inviolability
 |move_5_boost_cost = 0
 |move_5_boost_effect = <b>Opponents cannot move you.</b><br/><b>Now:</b> Draw a card.
 
@@ -77,7 +77,7 @@ Geoffrey is a playable character in Exceed introduced in Season 2.
 |move_6_armor = 0
 |move_6_guard = 0
 |move_6_effect = <b>Attacks with higher Speed do not hit you.</b><br/><b>Hit:</b> Gain <b>Advantage</b>.
-|move_6_boost_name = Solemn Oath (+)
+|move_6_boost_name = (+) Solemn Oath
 |move_6_boost_cost = 0
 |move_6_boost_effect = <span>+5 Armor</span><br/><b>Now:</b> You may spend 5 life. If you do, Transform a card from your hand. Otherwise, discard this.
 

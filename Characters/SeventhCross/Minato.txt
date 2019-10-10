@@ -41,7 +41,7 @@ Minato is a playable character in Exceed introduced in Season 2.
 |move_3_armor = 0
 |move_3_guard = 0
 |move_3_effect = <b>Before:</b> Spend up to 3 Force, For each Force spent, Close 1.<br/><b>After:</b> Advance 3.
-|move_3_boost_name = One More Ride (+)
+|move_3_boost_name = (+) One More Ride
 |move_3_boost_cost = 0
 |move_3_boost_effect = Instead of drawing at the end of your turn, you may return a card from your sealed area to your hand.
 
@@ -77,7 +77,7 @@ Minato is a playable character in Exceed introduced in Season 2.
 |move_6_armor = 0
 |move_6_guard = 0
 |move_6_effect = <span>-</span>
-|move_6_boost_name = Daredevil (+)
+|move_6_boost_name = (+) Daredevil
 |move_6_boost_cost = 0
 |move_6_boost_effect = <b>Now:</b> Seal up to 4 cards from the top of your deck.<br/>For each card sealed this way, +1 Speed.
 
