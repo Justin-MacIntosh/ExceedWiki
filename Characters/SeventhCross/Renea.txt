@@ -1,0 +1,94 @@
+== Character ==
+Renea is a character from the universe of Seventh Cross.
+
+Renea is a playable character in Exceed introduced in Season 2.
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability = You may play Continuous Boosts face-down.<br/>Before you set your cards for a Strike, reveal your face-down boosts and resolve any Now effects on them.
+|exceed_cost = 5
+|exceed_ability = <b>When you Exceed, put the top 3 cards of the opponent's discard pile with Boosts into your Briefcase.</b><br/>Your attacks have "<br>Hit:</b> Put the bottom card of the opponent's discard pile with a Boost into your Briefcase."
+
+|move_1_name = Called Shot
+|move_1_force_cost = <span>-</span>
+|move_1_range = 1-8
+|move_1_power = 0
+|move_1_priority = 3
+|move_1_armor = 0
+|move_1_guard = 0
+|move_1_effect = <br>Hit:</b> Name a card. The opponent must discard a copy of that card, or reveal a hand without any. If they discarded a copy, +6 Power.
+|move_1_boost_name = (+) Tactical Training
+|move_1_boost_cost = 0
+|move_1_boost_effect = <span>+1 Power</span> and +1 Speed
+
+|move_2_name = Flare
+|move_2_force_cost = <span>-</span>
+|move_2_range = 1-4
+|move_2_power = 3
+|move_2_priority = 5
+|move_2_armor = 0
+|move_2_guard = 0
+|move_2_effect = <br>Hit:</b> For the rest of the Strike, attacks at Range 1 do not hit you.<br/><br>After:</b> Close 2.
+|move_2_boost_name = (+) Fakeout
+|move_2_boost_cost = 0
+|move_2_boost_effect = <br>Now:</b> Return this card to your hand, then draw a card.
+
+|move_3_name = Lethal Force
+|move_3_force_cost = <span>-</span>
+|move_3_range = 1-2
+|move_3_power = 5
+|move_3_priority = 4
+|move_3_armor = 0
+|move_3_guard = 0
+|move_3_effect = <br>Ignore Armor</b><br/><br>Hit:</b> Push 2. If you have a Continuous Boost in play, Retreat 1.
+|move_3_boost_name = Following Leads
+|move_3_boost_cost = T
+|move_3_boost_effect = After resolving a Boost, you may spend 1 Force. If you do, Move 1. Ignore this when turning a Boost face-up.
+
+|move_4_name = Paranormal Investigation
+|move_4_force_cost = <span>-</span>
+|move_4_range = 1
+|move_4_power = 2
+|move_4_priority = 7
+|move_4_armor = 0
+|move_4_guard = 0
+|move_4_effect = <br>Hit:</b> Return up to 2 Normal Attacks from your discard pile to your hand.
+|move_4_boost_name = Mimetism
+|move_4_boost_cost = T
+|move_4_boost_effect = Your attacks have "<br>After:</b> You may spend 2 Force. If you do, choose one of your Continuous Boosts. Do not discard it from play after this Strike."
+
+|move_5_name = Strafe Fire
+|move_5_force_cost = <span>-</span>
+|move_5_range = 2-4
+|move_5_power = 2
+|move_5_priority = 6
+|move_5_armor = 0
+|move_5_guard = 0
+|move_5_effect = <br>After:</b> Retreat 1.
+|move_5_boost_name = Double Down
+|move_5_boost_cost = T
+|move_5_boost_effect = Your attacks gain "<br>Hit:</b> If you have 2 or more Continuous Boosts in play, +2 Power."
+
+|move_6_name = Anticipation
+|move_6_force_cost = 2
+|move_6_range = 1-3
+|move_6_power = 3
+|move_6_priority = 3
+|move_6_armor = 0
+|move_6_guard = 0
+|move_6_effect = <br>Attacks at Range 1 do not hit you.</b><br/><br>Before:</b> Advance 1.
+|move_6_boost_name = (+) Jiujitsu
+|move_6_boost_cost = 0
+|move_6_boost_effect = <span>+1 Power</span><br/><br>Now:</b> Move 1.
+
+|move_7_name = Neutralizer
+|move_7_force_cost = 2
+|move_7_range = 1-2
+|move_7_power = 4
+|move_7_priority = 6
+|move_7_armor = 0
+|move_7_guard = 0
+|move_7_effect = <br>Ignore Guard</b><br/><br>Hit:</b> If the opponent is in Exceed Mode, they must discard 2 cards from their gauge.
+|move_7_boost_name = (+) Conspiracy Unearthed
+|move_7_boost_cost = 0
+|move_7_boost_effect = <br>Now:</b> The opponent reveals their hand, then adds a card of your choice from their hand to their Gauge.}}
