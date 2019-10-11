@@ -5,9 +5,9 @@ Tournelouse is a playable character in Exceed introduced in Season 2.
 
 == Character Kit ==
 {{CharacterKit
-|standard_ability =
-|exceed_cost =
-|exceed_ability =
+|standard_ability = Your Normal Attacks have a Transformation that reads "Your Special and Ultra attacks have +1 Power."
+|exceed_cost = 0
+|exceed_ability = Transformed Normal Attacks read "Your Special and Ultra attacks have +1 Power."<br/>When you set your attack, you may seal one of your Transformations for +2 Power or +2 Armor.
 
 |move_1_name = Death Omen
 |move_1_force_cost = <span>-</span>
