@@ -7,7 +7,7 @@ Renea is a playable character in Exceed introduced in Season 2.
 {{CharacterKit
 |standard_ability = You may play Continuous Boosts face-down.<br/>Before you set your cards for a Strike, reveal your face-down boosts and resolve any Now effects on them.
 |exceed_cost = 5
-|exceed_ability = <b>When you Exceed, put the top 3 cards of the opponent's discard pile with Boosts into your Briefcase.</b><br/>Your attacks have "<br>Hit:</b> Put the bottom card of the opponent's discard pile with a Boost into your Briefcase."
+|exceed_ability = <b>When you Exceed, put the top 3 cards of the opponent's discard pile with Boosts into your Briefcase.</b><br/>Your attacks have "<b>Hit:</b> Put the bottom card of the opponent's discard pile with a Boost into your Briefcase."
 
 |move_1_name = Called Shot
 |move_1_force_cost = <span>-</span>
