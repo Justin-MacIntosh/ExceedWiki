@@ -1,0 +1,94 @@
+== Character ==
+Eugenia is a character from the universe of Seventh Cross.
+
+Eugenia is a playable character in Exceed introduced in Season 2.
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability = Once per turn, when you cause the opponent to discard 1 or more cards, you may reveal a card from your hand with the same printed Speed as a discarded card to do 2 non-lethal damage.
+|exceed_cost = 6
+|exceed_ability = When you Exceed, put your Wonderland into play.<br/>When you cause the opponent to discard 1 or more cards, you may put one of them in your WOnderland.
+
+|move_1_name = Absinthin Arrow
+|move_1_force_cost = <span>-</span>
+|move_1_range = 3-6
+|move_1_power = 2
+|move_1_priority = 5
+|move_1_armor = 0
+|move_1_guard = 0
+|move_1_effect = <b>Hit:</b> The opponent draws a card, then discards 2 cards at random.
+|move_1_boost_name = We're All Mad Here
+|move_1_boost_cost = 0
+|move_1_boost_effect = Both players draw up to 4 cards, then discard a card at random.
+
+|move_2_name = Color Spray
+|move_2_force_cost = <span>-</span>
+|move_2_range = 1-3
+|move_2_power = 6
+|move_2_priority = 2
+|move_2_armor = 0
+|move_2_guard = 0
+|move_2_effect = If the oppoennt has 2 or fewer cards in hand, <b>Stun Immunity</b>.<br/><b>Hit:</b> The opponent must draw or discard cards at random until they have 2 in hand.
+|move_2_boost_name = Unhinged
+|move_2_boost_cost = T
+|move_2_boost_effect = When you set an EX Attack or Wild Swing, it gains "<b>Hit:</b> The opponent must discard a card at random."
+
+|move_3_name = Plot Hook
+|move_3_force_cost = <span>-</span>
+|move_3_range = 1-5
+|move_3_power = 3
+|move_3_priority = 4
+|move_3_armor = 0
+|move_3_guard = 0
+|move_3_effect = <b>Hit:</b> Pull 5 and gain <b>Advantage</b>.
+|move_3_boost_name = Time for Tea
+|move_3_boost_cost = T
+|move_3_boost_effect = As an action, spend 1 Force to make the opponent discard a card at random. If you are in Exceed Mode, do not draw at the end of your turn.
+
+|move_4_name = Summer of Madness
+|move_4_force_cost = <span>-</span>
+|move_4_range = 1-2
+|move_4_power = 2
+|move_4_priority = 6
+|move_4_armor = 0
+|move_4_guard = 0
+|move_4_effect = <b>Hit:</b> Your opponent reveals their hand, then discards a card of your choice.
+|move_4_boost_name = Hanging by a Thread
+|move_4_boost_cost = T
+|move_4_boost_effect = Your attacks have "<b>Hit:</b> If the opponent has 2 or fewer cards in hand, +2 Power."
+
+|move_5_name = Werelight
+|move_5_force_cost = <span>-</span>
+|move_5_range = 2-4
+|move_5_power = 4
+|move_5_priority = 3
+|move_5_armor = 0
+|move_5_guard = 0
+|move_5_effect = <b>Hit:</b> The opponent chooses one: The opponent discards 2 cards at random, or the opponent reveals their hand, then discards a card of your choice.
+|move_5_boost_name = Off With Her Head!
+|move_5_boost_cost = 0
+|move_5_boost_effect = If the opponent is at range 1, they choose one: The opponent discards 2 cards at random, or Push 3.
+
+|move_6_name =
+|move_6_force_cost =
+|move_6_range =
+|move_6_power =
+|move_6_priority =
+|move_6_armor =
+|move_6_guard =
+|move_6_effect =
+|move_6_boost_name =
+|move_6_boost_cost =
+|move_6_boost_effect =
+
+|move_7_name =
+|move_7_force_cost =
+|move_7_range =
+|move_7_power =
+|move_7_priority =
+|move_7_armor =
+|move_7_guard =
+|move_7_effect =
+|move_7_boost_name =
+|move_7_boost_cost =
+|move_7_boost_effect =}}
