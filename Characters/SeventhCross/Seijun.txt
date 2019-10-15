@@ -1,0 +1,94 @@
+== Character ==
+Seijun is a character from the universe of Seventh Cross.
+
+Seijun is a playable character in Exceed introduced in Season 2.
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability = Your maximum hand size is 9. Draw 2 additional cards in your starting hand.<br/>Your attacks have +1 Guard for every 2 cards in your hand.
+|exceed_cost = 5
+|exceed_ability = <b>When you Exceed, draw 3 cards.</b><br/>Your maximum hand size is unlimited.<br/>At the start of each of your turns, draw a card.
+
+|move_1_name = Fox Fire
+|move_1_force_cost = <span>-</span>
+|move_1_range = 1-2
+|move_1_power = 6
+|move_1_priority = 3
+|move_1_armor = 0
+|move_1_guard = 4
+|move_1_effect = <b>After:</b> Push 2.
+|move_1_boost_name = Ninth Tail
+|move_1_boost_cost = T
+|move_1_boost_effect = Your attacks have "<b>Hit:</b> If you have fewer cards in hand than the opponent, +2 Power."
+
+|move_2_name = Inari Guidance
+|move_2_force_cost = <span>-</span>
+|move_2_range = 2-3
+|move_2_power = 5
+|move_2_priority = 4
+|move_2_armor = 0
+|move_2_guard = 0
+|move_2_effect = <b>Before:</b> You may Advance as far as possible.
+|move_2_boost_name = Kitsune's Pride
+|move_2_boost_cost = T
+|move_2_boost_effect = When you set your attack, you may spend 2 Force. If you do, your attack has +0-1 Range.
+
+|move_3_name = Ink Spike
+|move_3_force_cost = <span>-</span>
+|move_3_range = 1-3
+|move_3_power = X
+|move_3_priority = 4
+|move_3_armor = 0
+|move_3_guard = 0
+|move_3_effect = <b>X is the number of cards in your hand</b> (up to a maximum of 7).
+|move_3_boost_name = Kitsune's Wrath
+|move_3_boost_cost = T
+|move_3_boost_effect = When you set an EX Attack, you may spend up to 2 Force. For eahc Force spent, your attack has +1 Power.
+
+|move_4_name = Ink Splash
+|move_4_force_cost = <span>-</span>
+|move_4_range = 1-3
+|move_4_power = 4
+|move_4_priority = X
+|move_4_armor = 0
+|move_4_guard = 0
+|move_4_effect = <b>X is the number of cards in your hand</b> (up to a maximum of 7).
+|move_4_boost_name = Watchful Guardian
+|move_4_boost_cost = T
+|move_4_boost_effect = After you use the "Prepare" action, you may spend 1 Force. If you do, Move 1.
+
+|move_5_name = Yokai Banishing
+|move_5_force_cost = <span>-</span>
+|move_5_range = 1-2
+|move_5_power = 1
+|move_5_priority = 6
+|move_5_armor = 0
+|move_5_guard = 0
+|move_5_effect = <b>Hit:</b> Draw a card, or Push 1. Repeat this effect 2 more times.
+|move_5_boost_name = Meddlesome
+|move_5_boost_cost = T
+|move_5_boost_effect = When the opponent plays a Boost, you may discard a copy of that card. If you do, their card is discarded with no effect.
+
+|move_6_name =
+|move_6_force_cost =
+|move_6_range =
+|move_6_power =
+|move_6_priority =
+|move_6_armor =
+|move_6_guard =
+|move_6_effect =
+|move_6_boost_name =
+|move_6_boost_cost =
+|move_6_boost_effect =
+
+|move_7_name =
+|move_7_force_cost =
+|move_7_range =
+|move_7_power =
+|move_7_priority =
+|move_7_armor =
+|move_7_guard =
+|move_7_effect =
+|move_7_boost_name =
+|move_7_boost_cost =
+|move_7_boost_effect =}}
