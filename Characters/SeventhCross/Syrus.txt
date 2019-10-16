@@ -1,8 +1,8 @@
 == Character Kit ==
 {{CharacterKit
-|standard_ability =
-|exceed_cost =
-|exceed_ability =
+|standard_ability = After resokving an Instant Boost, put it into play as a face-down Continuous Boost that reads "<b>Hit: Add this card to your gauge.</b>"
+|exceed_cost = 6
+|exceed_ability = <b>When you Exceed, add your Continuous Boosts to your gauge.</b><br/>After resolving an Instant Boost, put it into play as a face-down Continuous Boost that reads "+1 Power. <b>Now:</b> Move up to 1."
 
 |move_1_name = Albatross Talon
 |move_1_force_cost = <span>-</span>
