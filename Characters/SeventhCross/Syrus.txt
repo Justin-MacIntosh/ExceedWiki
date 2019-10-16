@@ -1,3 +1,8 @@
+== Character ==
+Syrus is a character from the universe of Seventh Cross.
+
+Syrus is a playable character in Exceed introduced in Season 2.
+
 == Character Kit ==
 {{CharacterKit
 |standard_ability = After resokving an Instant Boost, put it into play as a face-down Continuous Boost that reads "<b>Hit: Add this card to your gauge.</b>"

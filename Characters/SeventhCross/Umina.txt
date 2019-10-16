@@ -1,0 +1,94 @@
+== Character ==
+Umina is a character from the universe of Seventh Cross.
+
+Umina is a playable character in Exceed introduced in Season 2.
+
+== Character Kit ==
+{{CharacterKit
+|standard_ability = As an action, you may put a card from your hand into your Dreamlands.
+|exceed_cost = 4
+|exceed_ability = <b>When you Exceed, flip your Dreamlands to its Exceed Side.</b><br/>At the start of each of your turns, look at the top card of your deck, Either put it into your Dreamlands, or discard it.
+
+|move_1_name =
+|move_1_force_cost =
+|move_1_range =
+|move_1_power =
+|move_1_priority =
+|move_1_armor =
+|move_1_guard =
+|move_1_effect =
+|move_1_boost_name =
+|move_1_boost_cost =
+|move_1_boost_effect =
+
+|move_2_name =
+|move_2_force_cost =
+|move_2_range =
+|move_2_power =
+|move_2_priority =
+|move_2_armor =
+|move_2_guard =
+|move_2_effect =
+|move_2_boost_name =
+|move_2_boost_cost =
+|move_2_boost_effect =
+
+|move_3_name =
+|move_3_force_cost =
+|move_3_range =
+|move_3_power =
+|move_3_priority =
+|move_3_armor =
+|move_3_guard =
+|move_3_effect =
+|move_3_boost_name =
+|move_3_boost_cost =
+|move_3_boost_effect =
+
+|move_4_name =
+|move_4_force_cost =
+|move_4_range =
+|move_4_power =
+|move_4_priority =
+|move_4_armor =
+|move_4_guard =
+|move_4_effect =
+|move_4_boost_name =
+|move_4_boost_cost =
+|move_4_boost_effect =
+
+|move_5_name =
+|move_5_force_cost =
+|move_5_range =
+|move_5_power =
+|move_5_priority =
+|move_5_armor =
+|move_5_guard =
+|move_5_effect =
+|move_5_boost_name =
+|move_5_boost_cost =
+|move_5_boost_effect =
+
+|move_6_name =
+|move_6_force_cost =
+|move_6_range =
+|move_6_power =
+|move_6_priority =
+|move_6_armor =
+|move_6_guard =
+|move_6_effect =
+|move_6_boost_name =
+|move_6_boost_cost =
+|move_6_boost_effect =
+
+|move_7_name =
+|move_7_force_cost =
+|move_7_range =
+|move_7_power =
+|move_7_priority =
+|move_7_armor =
+|move_7_guard =
+|move_7_effect =
+|move_7_boost_name =
+|move_7_boost_cost =
+|move_7_boost_effect =}}
