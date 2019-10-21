@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Geoffrey.png
+|exceed_image = File:The_Faceless_Judge.png}}
+
 == Character ==
 Geoffrey is a character from the universe of Seventh Cross.
 
 Geoffrey is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

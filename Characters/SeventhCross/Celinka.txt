@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Celinka.png
+|exceed_image = File:The_Gaki.png}}
+
 == Character ==
 Celinka is a character from the universe of Seventh Cross.
 
 Celinka is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

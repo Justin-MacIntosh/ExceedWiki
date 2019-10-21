@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Galdred.png
+|exceed_image = File:The_Beast_Within.png}}
+
 == Character ==
 Galdred is a character from the universe of Seventh Cross.
 
 Galdred is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit
