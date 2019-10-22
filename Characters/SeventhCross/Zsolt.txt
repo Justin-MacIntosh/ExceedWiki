@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Zsolt.png
+|exceed_image = File:The_Hunter_Of_Men.png}}
+
 == Character ==
 Zsolt is a character from the universe of Seventh Cross.
 
 Zsolt is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

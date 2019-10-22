@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Renea.png
+|exceed_image = File:The_Spook.png}}
+
 == Character ==
 Renea is a character from the universe of Seventh Cross.
 
 Renea is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

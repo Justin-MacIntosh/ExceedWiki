@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Tournelouse.png
+|exceed_image = File:The_Bargeist.png}}
+
 == Character ==
 Tournelouse is a character from the universe of Seventh Cross.
 
 Tournelouse is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit

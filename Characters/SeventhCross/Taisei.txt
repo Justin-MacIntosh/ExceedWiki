@@ -1,7 +1,14 @@
+{{ExceedCharacter
+|imagewidth = 300
+|standard_image = File:Taisei.png
+|exceed_image = File:The_Dullahan.png}}
+
 == Character ==
 Taisei is a character from the universe of Seventh Cross.
 
 Taisei is a playable character in Exceed introduced in Season 2.
+
+<br style="clear:both" />
 
 == Character Kit ==
 {{CharacterKit
